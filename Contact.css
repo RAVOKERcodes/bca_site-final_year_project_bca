@@ -1,12 +1,12 @@
  .u-section-1 {
-  background-image: url("images/2b790cbed5cb757f931d10fb4360b5d51441736bbbdcc818c3de8d651d2456d28c2c8fc666e76aaa7f9b03083d4e5cca0e6043758ea292b0f63b63_1280.jpg");
+  background-image: url("images/ca4611ce3ca2385f10bab0f47eec5fe7362200fa73177ed25a9d14275eaf3a09ce0ae05faeb1142e1b2393533bbd1f1c7310df0f4c7c863002016c_1280.jpg");
   min-height: 448px;
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
    .u-section-1 {
     min-height: 369px;
-    background-position: 50% 50%;
   }
 }
 
@@ -27,7 +27,7 @@
     min-height: 133px;
   }
 } .u-section-2 {
-  background-image: url("images/cca13299549d5efa090fd393a6ee41acaa375d423f6555aa58abc394286479eb3711da71c698d200b8ca37bf7f49bf1ebcc560ab99793536b3d0b2_1280.jpg");
+  background-image: url("images/91eaf9fbd8692b1869f10f8f3c8d16b63cf900ee676fa3c0d7efe35cebf9ccf7674da77935daca67f293f599373c435e060255099d0dd2cb6ea9d2_1280.jpg");
 }
 
 .u-section-2 .u-sheet-1 {
@@ -241,6 +241,14 @@
 
 .u-section-3 .u-container-layout-2 {
   padding: 20px;
+}
+
+.u-section-3 .u-map-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 @media (max-width: 1199px) {
